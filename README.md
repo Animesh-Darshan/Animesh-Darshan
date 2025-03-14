@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@Animesh-Darshan**
 -  I had done my B.Tech from **Lovely Professional University(Punjab)**.
 -  I had worked in **Cognizant Technology Solutions** as **QA Intern**.
--  Currently working as a **QA ENGINEER** @ **Vidyayatan Technologies**.
+-  Currently working as a **QA ENGINEER** @ **Vidyayatan Technologies LLP**.
 - 👀 I’m interested in **Software Testing**
 - 🌱 I’m currently learning all the software testing concepts which includes all software testing tools and methodologies.
 - 💞️ I’m looking to join an organisation which will give me opportunities to work on it.

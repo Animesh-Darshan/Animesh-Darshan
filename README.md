@@ -2,7 +2,7 @@
 
 I'm a passionate **QA Engineer** with experience in ensuring high-quality software. I specialize in creating comprehensive test cases, test scenarios, and bug reports to ensure that everything works smoothly. 🚀
 
-![Animesh's profile picture](https://via.placeholder.com/150) <!-- Replace with your actual image -->
+!(https://drive.google.com/file/d/1yJ3XX0jddHJOdK-0XLd9Nhh7LTkYWOpD/view?usp=sharing) <!-- Replace with your actual image -->
 
 ## 🛠️ Skills & Tools
 

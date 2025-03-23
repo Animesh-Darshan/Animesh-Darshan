@@ -2,7 +2,6 @@
 
 I'm a passionate **QA Engineer** with experience in ensuring high-quality software. I specialize in creating comprehensive test cases, test scenarios, and bug reports to ensure that everything works smoothly. 🚀
 
-!(https://drive.google.com/file/d/1yJ3XX0jddHJOdK-0XLd9Nhh7LTkYWOpD/view?usp=sharing) <!-- Replace with your actual image -->
 
 ## 🛠️ Skills & Tools
 
@@ -11,19 +10,19 @@ I'm a passionate **QA Engineer** with experience in ensuring high-quality softwa
 - **Bug Reports** 📊: Reporting bugs and issues in Excel sheets, making it easy to track, analyze, and resolve them.
 
 ### ✅ Functional Testing
-- **JIRA** ![JIRA](https://upload.wikimedia.org/wikipedia/commons/e/e7/JIRA_logo.png) : 🧑‍💻 A project and issue tracking tool for managing tasks, test cases, and bugs.
-- **Bugzilla** ![Bugzilla](https://upload.wikimedia.org/wikipedia/commons/7/7f/Bugzilla-logo.png) : 🐞 Bug tracking system for reporting and managing software defects.
-- **TestRail** ![TestRail](https://www.gurock.com/testrail/images/testrail-logo-800x242.png) : 📊 Test management tool for organizing and executing test cases and reporting results.
+- **JIRA**  : 🧑‍💻 A project and issue tracking tool for managing tasks, test cases, and bugs.
+- **Bugzilla** : 🐞 Bug tracking system for reporting and managing software defects.
+- **TestRail** : 📊 Test management tool for organizing and executing test cases and reporting results.
 
 ### 🔌 API Testing
-- **Postman** ![Postman](https://upload.wikimedia.org/wikipedia/commons/4/47/Postman_logo.png) : 🔌 A popular tool for API testing, used for creating and executing API requests and responses.
-- **Swagger** ![Swagger](https://upload.wikimedia.org/wikipedia/commons/1/18/Swagger-logo.png) : 📝 API documentation and testing tool, allowing easy interaction with APIs.
+- **Postman**  : 🔌 A popular tool for API testing, used for creating and executing API requests and responses.
+- **Swagger**  : 📝 API documentation and testing tool, allowing easy interaction with APIs.
 
 ### 🗄️ Database Testing
-- **PostgreSQL** ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/a/a4/Postgresql_elephant.svg) : 🗄️ SQL database used for validating and testing data stored in applications.
+- **PostgreSQL** : 🗄️ SQL database used for validating and testing data stored in applications.
 
 ### 🚀 Performance Testing
-- **JMeter** ![JMeter](https://upload.wikimedia.org/wikipedia/commons/1/1d/Apache_JMeter_logo.png) : 🏎️ A powerful tool for performance testing, load testing, and stress testing.
+- **JMeter** : 🏎️ A powerful tool for performance testing, load testing, and stress testing.
 
 ## 💼 About Me
 
@@ -31,8 +30,8 @@ As a QA Engineer, I focus on functional testing, API testing, database testing, 
 
 ## 🌐 Let's Connect
 Feel free to check out my repositories and connect with me:
-- LinkedIn: [Animesh Darshan](https://www.linkedin.com)  
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: https://www.linkedin.com/in/animesh-darshan-6b62b0294/  
+- Email: animeshdarshan8427@gmail.com
 
 Thanks for visiting my profile! 😊
 
